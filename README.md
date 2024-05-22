@@ -7,7 +7,7 @@ Menú app con Blogs para agregar imagene y ver el blog
 ![App Screenshot](image.png)
 ## Clone
 ```bash
-  git clone https://github.com/hanzbk/appblogs.git
+  git clone https://github.com/hanzbk/addblogimage.git
 ```
 ## Install
 ```bash
